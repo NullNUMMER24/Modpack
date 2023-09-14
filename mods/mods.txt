@@ -58,7 +58,7 @@ https://mediafilez.forgecdn.net/files/3575/220/twilightforest-1.16.5-4.0.870-uni
 https://mediafilez.forgecdn.net/files/4167/327/sophisticatedbackpacks-1.16.5-3.15.20.755.jar
 https://mediafilez.forgecdn.net/files/3902/532/mininggadgets-1.7.6.jar
 https://mediafilez.forgecdn.net/files/3973/166/upgradednetherite-1.16.5-2.1.0.1-release.jar
-https://mediafilez.forgecdn.net/files/3658/432/Clumps-6.0.0.28.jar
+https://mediafilez.forgecdn.net/files/3658/432/Clumps-6.0.0.28.jar  
 https://mediafilez.forgecdn.net/files/3969/615/upgradedcore-1.16.5-1.1.0.3-release.jar
 https://mediafilez.forgecdn.net/files/3337/788/stoneholm-1.2.2.jar
 https://mediafilez.forgecdn.net/files/3776/944/TheAbyss2+2.2.3-4+1.16.5.jar
@@ -88,5 +88,28 @@ https://mediafilez.forgecdn.net/files/3393/230/potionsmaster-0.2.2-1.16.5-36.1.0
 https://mediafilez.forgecdn.net/files/4297/614/champions-forge-1.16.5-2.0.1.16.jar
 https://mediafilez.forgecdn.net/files/3543/538/ironchest-1.16.5-11.2.21.jar
 
+https://mediafilez.forgecdn.net/files/4662/189/Werewolves-1.16.5-1.1.0.3.jar
+https://mediafilez.forgecdn.net/files/3494/620/VampiresNeedUmbrellas-1.16.5-1.1.5.jar
 
-https://mediafilez.forgecdn.net/files/3506/836/BlockArmor-1.16.5-2.6.4.jar
+https://mediafilez.forgecdn.net/files/3412/586/BetterStrongholds-1.16.4-1.2.1.jar
+https://mediafilez.forgecdn.net/files/3503/936/createdeco-1.1.2-1.16.5.jar
+https://mediafilez.forgecdn.net/files/3531/342/FastFurnace-1.16.5-4.5.0.jar
+https://mediafilez.forgecdn.net/files/4074/330/ferritecore-2.1.1-forge.jar
+https://mediafilez.forgecdn.net/files/3512/542/jumpboat-1.16.5-0.1.0.2.jar
+https://mediafilez.forgecdn.net/files/3556/680/Microcosm-1_16_5-1_5_1.jar
+https://mediafilez.forgecdn.net/files/4712/606/%5bRELEASE+-+v2%5d+Multimine+1.16.5.jar
+https://mediafilez.forgecdn.net/files/3654/894/NatureExpansion1.5.jar
+https://mediafilez.forgecdn.net/files/3443/481/nethers_delight-2.1.jar
+
+https://mediafilez.forgecdn.net/files/3765/350/FarmersDelight-1.16.5-0.6.0.jar
+https://mediafilez.forgecdn.net/files/3439/904/farmersdelightintegrations-1.16.5-1.2.jar
+https://mediafilez.forgecdn.net/files/3755/247/Prehistoric_Delight_2.1.0_Forge_1.16.5.jar
+https://mediafilez.forgecdn.net/files/4578/189/Frozen_Delight_1.1.2_Forge_1.16.5.jar
+https://mediafilez.forgecdn.net/files/4715/364/gobber_delight_2.0.0_forge_1.16.5.jar
+
+https://mediafilez.forgecdn.net/files/4562/378/performant-1.16.2-5-4.1m.jar
+https://mediafilez.forgecdn.net/files/3188/120/shutupexperimentalsettings-1.0.3.jar
+https://mediafilez.forgecdn.net/files/3704/774/simpleshops-1.1.3.jar
+https://mediafilez.forgecdn.net/files/3224/252/smoothboot-forge-1.16.4-1.2.2.jar
+https://mediafilez.forgecdn.net/files/4046/414/steampowered-1.16.5-1.2.6.jar
+https://mediafilez.forgecdn.net/files/3103/28/swingthroughgrass-1.16.4-1.5.3.jar
