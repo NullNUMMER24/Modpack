@@ -113,3 +113,15 @@ https://mediafilez.forgecdn.net/files/3704/774/simpleshops-1.1.3.jar
 https://mediafilez.forgecdn.net/files/3224/252/smoothboot-forge-1.16.4-1.2.2.jar
 https://mediafilez.forgecdn.net/files/4046/414/steampowered-1.16.5-1.2.6.jar
 https://mediafilez.forgecdn.net/files/3103/28/swingthroughgrass-1.16.4-1.5.3.jar
+
+https://mediafilez.forgecdn.net/files/4418/147/mutantmore-1.16.5-1.0.2.jar
+https://mediafilez.forgecdn.net/files/3556/680/Microcosm-1_16_5-1_5_1.jar
+https://mediafilez.forgecdn.net/files/4728/820/Additional_Enchanting_1.10.3(1.16.5).jar
+https://mediafilez.forgecdn.net/files/3706/631/BrassAmberBattleTowers-1.16.5-1.6.3.jar
+https://mediafilez.forgecdn.net/files/4447/801/TaxOceanVillager%2BM.1.16%2BForM-1.1.2.jar
+https://mediafilez.forgecdn.net/files/3732/773/workers-1.16.5-1.3.2.jar
+https://mediafilez.forgecdn.net/files/4747/439/bygonenether-1.3.2-1.16.5.jar
+https://mediafilez.forgecdn.net/files/3472/973/MegaMeteors%2B1.2.7%2B%5b1.16.5%5d.jar
+https://mediafilez.forgecdn.net/files/4030/231/born_in_chaos_1.16_1.3.jar
+https://mediafilez.forgecdn.net/files/3681/503/comforts-forge-1.16.5-4.0.1.5.jar
+https://mediafilez.forgecdn.net/files/4420/334/aquamirae-5.4.API11.jar
