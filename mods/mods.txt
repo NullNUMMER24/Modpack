@@ -125,3 +125,5 @@ https://mediafilez.forgecdn.net/files/3472/973/MegaMeteors%2B1.2.7%2B%5b1.16.5%5
 https://mediafilez.forgecdn.net/files/4030/231/born_in_chaos_1.16_1.3.jar
 https://mediafilez.forgecdn.net/files/3681/503/comforts-forge-1.16.5-4.0.1.5.jar
 https://mediafilez.forgecdn.net/files/4420/334/aquamirae-5.4.API11.jar
+
+https://mediafilez.forgecdn.net/files/3437/9/Placebo-1.16.5-4.6.0.jar
