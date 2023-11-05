@@ -139,3 +139,11 @@ https://mediafilez.forgecdn.net/files/3228/527/Botania-1.16.4-413.jar
 https://mediafilez.forgecdn.net/files/4069/16/my_personal_modv1.3(1_16_5).jar
 https://mediafilez.forgecdn.net/files/3612/636/CreateArmorAndWeaponsv2.jar
 https://mediafilez.forgecdn.net/files/3615/933/create-stuff-additions1.16.5_v1.1.6.jar
+
+https://mediafilez.forgecdn.net/files/4637/191/create_recycle_0.9.0_forge_1.16.5.jar
+https://mediafilez.forgecdn.net/files/3695/126/TConstruct-1.16.5-3.3.4.335.jar
+https://mediafilez.forgecdn.net/files/4506/902/tinkerleveling-mc1.16.5-0.3.1.jar
+https://mediafilez.forgecdn.net/files/4460/15/idas_forge-1.5.5%2B1.16.5.jar
+https://mediafilez.forgecdn.net/files/4703/611/bettervillage-forge-1.16.5-3.2.0.jar
+https://mediafilez.forgecdn.net/files/3631/982/Mantle-1.16.5-1.6.157.jar
+https://mediafilez.forgecdn.net/files/4435/510/libraryferret-forge-1.16.5-4.0.0.jar
