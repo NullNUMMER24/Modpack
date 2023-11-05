@@ -127,8 +127,15 @@ https://mediafilez.forgecdn.net/files/4030/231/born_in_chaos_1.16_1.3.jar
 https://mediafilez.forgecdn.net/files/3681/503/comforts-forge-1.16.5-4.0.1.5.jar
 https://mediafilez.forgecdn.net/files/4420/334/aquamirae-5.4.API11.jar
 
+# Look at this mods again
 https://mediafilez.forgecdn.net/files/3437/9/Placebo-1.16.5-4.6.0.jar
 https://mediafilez.forgecdn.net/files/4799/119/1.16.5+Structure+Fix+ARA+(works).jar
 https://mediafilez.forgecdn.net/files/4802/527/SpinEnchants-1.6-1.16.5-RELEASE.jar
 https://mediafilez.forgecdn.net/files/4779/878/realmrpg_fallen_adventurers_0.2.0_forge_1.16.5.jar
 https://mediafilez.forgecdn.net/files/4827/500/fabledweaponry-1.16.5-1.0.5.jar
+
+https://mediafilez.forgecdn.net/files/3502/415/Wild_Mangroves_Mod_V0.6_Minecraft_1.16.jar
+https://mediafilez.forgecdn.net/files/3228/527/Botania-1.16.4-413.jar
+https://mediafilez.forgecdn.net/files/4069/16/my_personal_modv1.3(1_16_5).jar
+https://mediafilez.forgecdn.net/files/3612/636/CreateArmorAndWeaponsv2.jar
+https://mediafilez.forgecdn.net/files/3615/933/create-stuff-additions1.16.5_v1.1.6.jar
