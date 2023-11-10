@@ -61,7 +61,6 @@ https://mediafilez.forgecdn.net/files/3973/166/upgradednetherite-1.16.5-2.1.0.1-
 https://mediafilez.forgecdn.net/files/3658/432/Clumps-6.0.0.28.jar  
 https://mediafilez.forgecdn.net/files/3969/615/upgradedcore-1.16.5-1.1.0.3-release.jar
 https://mediafilez.forgecdn.net/files/3337/788/stoneholm-1.2.2.jar
-https://mediafilez.forgecdn.net/files/3776/944/TheAbyss2+2.2.3-4+1.16.5.jar
 https://mediafilez.forgecdn.net/files/3388/866/create-addon-v5.jar
 https://mediafilez.forgecdn.net/files/3387/393/GodlyVampirism-1.16.5-1.0.2.jar
 https://mediafilez.forgecdn.net/files/4368/330/mob_grinding_utils-1.16.5-0.4.47.jar
